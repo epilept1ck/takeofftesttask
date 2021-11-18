@@ -47,6 +47,16 @@
       "phone": "+7 (132) 132-12-11",
       "name": "Yusup",
       "userId": 123
+    },
+    {
+      "id": 2831,
+      "group": {
+        "id": 1,
+        "name": "Family"
+      },
+      "phone": "+7 (232) 132-13-21",
+      "name": "dsadas",
+      "userId": 123
     }
   ]
 }
