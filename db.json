@@ -1,0 +1,52 @@
+{
+  "users": [
+    {
+      "id": 123,
+      "name": "Askhab Askhabov",
+      "login": "epileptick",
+      "password": "123"
+    }
+  ],
+  "contacts": [
+    {
+      "id": 12,
+      "name": "Mom",
+      "phone": "+7 (423)32432342",
+      "group": {
+        "id": 1,
+        "name": "Family"
+      },
+      "userId": 123
+    },
+    {
+      "id": 3068,
+      "group": {
+        "id": 2,
+        "name": "Friends"
+      },
+      "phone": "+7 (928) 324-63-11",
+      "name": "Yusup",
+      "userId": 123
+    },
+    {
+      "id": 2535,
+      "group": {
+        "id": 1,
+        "name": "Family"
+      },
+      "phone": "+7 (132) 132-12-11",
+      "name": "Yusup",
+      "userId": 123
+    },
+    {
+      "id": 9873,
+      "group": {
+        "id": 1,
+        "name": "Family"
+      },
+      "phone": "+7 (132) 132-12-11",
+      "name": "Yusup",
+      "userId": 123
+    }
+  ]
+}
